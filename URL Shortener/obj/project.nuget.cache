@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIxVJVgz8f4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mzhar\\OneDrive\\Documents\\URL Shortener\\URL Shortener\\URL Shortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mzhar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\mzhar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
